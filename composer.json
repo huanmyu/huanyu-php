@@ -1,0 +1,19 @@
+{
+    "name": "huanyu/huanyu-php",
+    "description": "use compose and codecept and other php technology",
+    "type": "project",
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "codeception/codeception": "^2.3"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Bowen Chen",
+            "email": "bowenchen886@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
